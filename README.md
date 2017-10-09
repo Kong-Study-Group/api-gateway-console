@@ -1,2 +1,2 @@
 # api gateway console
-空空如也
+项目暂停，已经迁移至 https://bitbucket.org
